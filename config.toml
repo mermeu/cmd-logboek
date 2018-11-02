@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
+publishDir = "docs"
 title = "Merijns 2e site"
 theme = "whiteplain"
 [[menu.main]]
