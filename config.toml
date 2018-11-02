@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://mermeu.github.io/"
 languageCode = "nl-nl"
 defaultContentLanguage = "nl"
 publishDir = "../mermeu.github.io"
-title = "Merijns 2e site"
+title = "Logboek van mijn Proces"
 theme = "whiteplain"
 [[menu.main]]
     name = "Portfolio"
@@ -14,4 +14,4 @@ theme = "whiteplain"
     url = "/posts/"
 
 [[menu.footer]]
-name = "De vormgeving van dit blog is nog steeds in ontwikkeling" 
+name = "!! De vormgeving van dit blog is nog steeds in ontwikkeling !!" 
