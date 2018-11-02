@@ -1,3 +1,16 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "nl-nl"
+defaultContentLanguage = "nl"
+title = "Merijns 2e site"
+theme = "whiteplain"
+[[menu.main]]
+    name = "Portfolio"
+    weight = 20
+    url = "/portfolio/" 
+[[menu.main]]
+    name = "Blog"
+    weight = 10
+    url = "/posts/"
+
+[[menu.footer]]
+name = "De vormgeving van dit blog is nog steeds in ontwikkeling" 
