@@ -2,7 +2,6 @@
 title: "Hallo wereld!"
 date: 2018-09-12
 draft: false
-Weight: 999
 ---
 Oké, dit is dus mijn allereerste post op deze blog en ook mijn allereerste post ooit die ik via Hugo maak. Ik heb op school de opdracht gekregen om een blog op te zetten om de rest van het schooljaar mijn voortgang te kunnen delen. 
 

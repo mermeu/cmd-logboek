@@ -1,7 +1,6 @@
 ---
 title: Week 2 dag 2
 date: 2018-09-19
-Weight: 995
 ---
  
 Weer was ik bijna te laat, hier moet ik echt iets aan gaan doen. Ook merk ik dat ik met bijvoorbeeld bloggen dingen op het laatste moment nog even doe. Dat is wel jammer, want meestal begin ik met goede moed. Het lijkt me waardevol om naast theoretische (en toegepaste) kennis over vormgeving ook hier beter mee te leren omgaan. Dat zeg ik altijd al, maar ik neem me voor om voortaan om 09:00 aanwezig te zijn op de studiodagen.

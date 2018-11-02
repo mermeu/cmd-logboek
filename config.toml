@@ -4,6 +4,9 @@ defaultContentLanguage = "nl"
 publishDir = "../mermeu.github.io"
 title = "Logboek van mijn Proces"
 theme = "whiteplain"
+[params]
+showShareIcons = false
+dateFormat = "2 January 2006"
 [[menu.main]]
     name = "Portfolio"
     weight = 20

@@ -2,7 +2,6 @@
 title: "Kick off"
 date: 2018-09-10
 draft: false
-Weight: 1000
 ---
 ## Ontvangst
 Nogal chaotisch in zaal, wie is er in mijn klas? Klas gevonden (want ik kende Caitlin, Anne-Fleur, Han en Connor dus) - peercoach volgen: van a naar b tot x, y, z. Veel stoppen, niet echt iets kunnen verstaan want de groep was groot. Wat zeiden ze? Geen idee. Dit heb je hier, dat zit daar. Zoiets van het het zal wel, toch goed opgelet want de quiz kwam en ik heb hem gewoon gewonnen. Lekker man, 7,50 in me zak. Chill. Wel honger, dus gegeten - krentenbollen for life jwz. 

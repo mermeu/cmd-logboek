@@ -1,7 +1,6 @@
 ---
 title: Week 2 dag 1
 date: 2018-09-17
-Weight: 996
 ---
 Bijna te laat, gelukkig op tijd
 

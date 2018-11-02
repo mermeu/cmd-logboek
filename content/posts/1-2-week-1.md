@@ -1,7 +1,6 @@
 ---
 title: Halverwege week 1
 date: 2018-09-12
-Weight: 998
 ---
 
 ## Blegh, regen…

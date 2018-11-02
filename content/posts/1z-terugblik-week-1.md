@@ -1,8 +1,6 @@
 ---
 title: "Terugblik Week 1"
 date: 2018-09-14
-weight: 997	
-
 ---
 
 Pfoe, de eerste week van een nieuwe opleiding. Was wel spannend eigenlijk, zo voor ik echt begonnen was. Maar goed, voelde me wel meteen thuis in het gebouw. De ontspannen, laagdrempelige sfeer; de zooi en tafels overal: inspirerend. Fijn ook, niet allemaal vakken met 1 speficiek thema oid - nee, eigenlijk alles geconcentreerd in de praktijk en de theorie. Ook leuk hoe workshops het curriculum personaliseren: het grootste deel van de lesstof is voor iedereen hetzelfde, maar daarbovenop kun je al student modules stapelen in de vorm van workshops en keuzevakken. 
