@@ -1,7 +1,8 @@
 ---
-title: "Hoe dan!?"
+title: "HAHAHA, Hoe dan!?"
 date: 2018-11-01
 draft: false
+weight: 7
 ---
 How to configure your Hugo site.
 Hugo uses the config.toml, config.yaml, or config.json (if found in the site root) as the default site config file.
