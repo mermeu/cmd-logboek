@@ -64,17 +64,17 @@
     <ul class="pager article-pager">
       {{- if .NextInSection }}
       <li class="pager-newer">
-          <a href="{{ .NextInSection.Permalink | relURL }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">&lt; Newer</a>
+          <a href="{{ .NextInSection.Permalink | relURL }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">&larr; Nieuwer artikel</a>
       </li>
       {{- else }}
-      <li class="pager-newer pager-noitem">&lt; Newer</li>
+      <li class="pager-newer pager-noitem">&larr; Nieuwer artikel</li>
       {{- end }}
       {{- if .PrevInSection }}
       <li class="pager-older">
-        <a href="{{ .PrevInSection.Permalink | relURL }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">Older &gt;</a>
+        <a href="{{ .PrevInSection.Permalink | relURL }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">Ouder artikel &rarr;</a>
       </li>
       {{- else }}
-      <li class="pager-older pager-noitem">Older &gt;</li>
+      <li class="pager-older pager-noitem">Ouder artikel &rarr;</li>
       {{- end }}
     </ul>
   </div>

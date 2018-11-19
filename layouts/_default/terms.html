@@ -10,7 +10,7 @@
         {{- range .Data.Terms.Alphabetical }}
         <li>
           <a href="{{ "/" | relURL }}{{ $data.Plural | urlize }}/{{ .Name | urlize }}/">{{ .Name | humanize }}({{ .Count }})</a>
-          <time>{{((index .Pages.ByDate.Reverse 0).Date.Format (default "January 2, 2006" $.Site.Params.dateFormat))}}</time>
+          <time>{{((index .Pages.ByDate.Reverse 0).Date.Format (default "2 January, 2006" $.Site.Params.dateFormat))}}</time>
         </li>
         {{- end}}
       </ul>

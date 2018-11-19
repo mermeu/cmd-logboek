@@ -1,0 +1,9 @@
+---
+title: "Terugblik op de eerste Design Challenge"
+date: 2018-11-05
+category: "Studio"
+---
+
+Nu het eerste deel van het eerste jaar achter de rug is, mag ik dankbaar terug kijken. Het is van tijd tot lastig en zwaar geweest, maar ook erg leerzaam en gezellig. Soms leek de opdracht zo kinderlijk eenvoudig (want het is maar een spelletje), maar tegelijkertijd bleek het regelmatig ontzettend lastig om ook echt iets goeds neer te zetten. 
+Ik heb een heleboel samengewerkt, meer dan waar ik blij van zou worden. Ik heb van alles mogen onderzoeken, prototypen en ontwerpen. Ik heb me verslapen, op zaken verkeken en me groen en geel geërgerd. Maar gelukkig heb ik ook een hoop kunnen lachen, nieuwe dingen mogen leren en heb ik ook mezelf weer wat beter leren kennen.
+Soms wilde ik te snel naar de finish, en sloeg ik belangrijke stappen over. Zo heb ik een moodboard gemaakt dat achteraf niet echt een moodboard leek, heb ik interviews gehouden zonder een vragenlijst op te stellen en heb ik ideeën gekozen zonder enige onderbouwing te hebben. Ik miste de deadline voor mijn evaluatieverslag omdat ik maar niet tevreden kon raken en mijn eigen lat veel te hoog had gelegd en liet mezelf afleiden op momenten dat ik eigenlijk enge, moeilijke of zware dingen moest doen. Los van of ik met de hakken net over of net in de sloot landde, heb ik zo vaak onnodig een grens opgezocht.  Ook heb ik meer gestookt en geroddeld dan ik zou willen toegeven en me bemoeit met zaken die me eigenlijk helemaal niet aangaan. Ik heb het afgelopen kwartaal een flink aantal fouten gemaakt, maar gelukkig was er geen een onoverkoombaar en heb ik veel kunnen leren.
